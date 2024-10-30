@@ -9,6 +9,9 @@ This project is a **House Price Prediction** web application built using **Flask
 - Prediction based on multiple property features
 - Deployment-ready for cloud services or local hosting
 
+## Live Demo
+You can access the live application [here](https://house-price-prediction-flaskapp-1.onrender.com/)
+
 ## Project Structure
 ```bash
 House_Price_Prediction/
