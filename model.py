@@ -19,7 +19,7 @@ def get_location_encode(location, json_path):
     close_matches = get_close_matches(location, data.keys(), n=1, cutoff=0.6)
     if close_matches:
         closest_location = close_matches[0]
-        print("Closes match---->", closest_location)
+        #print("Closes match---->", closest_location)
         return data[closest_location]
         
     # print("Location---->", data.get(location, "Location not found"))
