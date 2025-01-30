@@ -29,4 +29,4 @@ def index():
 
 json_path = os.path.join(BASE_DIR, 'hash_map.json')
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
