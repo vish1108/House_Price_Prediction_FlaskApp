@@ -13,7 +13,7 @@ This project is a **House Price Prediction** web application built using **Flask
 You can access the live application [here](https://house-price-prediction-flaskapp-1.onrender.com/)
 
 ## Deployment Status
-[![Deploy Status](https://github.com/vish1108/House_Price_Prediction_FlaskApp/actions/workflows/deploy.yml/badge.svg)](https://github.com/vish1108/House_Price_Prediction_FlaskApp/actions/workflows/deploy.yml)
+![Deploy Status](https://github.com/vish1108/House_Price_Prediction_FlaskApp/actions/workflows/deploy.yml/badge.svg)
 
 
 ## Project Structure
